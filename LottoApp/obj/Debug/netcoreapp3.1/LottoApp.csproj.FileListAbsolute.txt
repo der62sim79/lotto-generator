@@ -1,0 +1,13 @@
+C:\Users\DCV\source\repos\LottoApp\LottoApp\bin\Debug\netcoreapp3.1\LottoApp.exe
+C:\Users\DCV\source\repos\LottoApp\LottoApp\bin\Debug\netcoreapp3.1\LottoApp.deps.json
+C:\Users\DCV\source\repos\LottoApp\LottoApp\bin\Debug\netcoreapp3.1\LottoApp.runtimeconfig.json
+C:\Users\DCV\source\repos\LottoApp\LottoApp\bin\Debug\netcoreapp3.1\LottoApp.runtimeconfig.dev.json
+C:\Users\DCV\source\repos\LottoApp\LottoApp\bin\Debug\netcoreapp3.1\LottoApp.dll
+C:\Users\DCV\source\repos\LottoApp\LottoApp\bin\Debug\netcoreapp3.1\LottoApp.pdb
+C:\Users\DCV\source\repos\LottoApp\LottoApp\obj\Debug\netcoreapp3.1\LottoApp.csprojAssemblyReference.cache
+C:\Users\DCV\source\repos\LottoApp\LottoApp\obj\Debug\netcoreapp3.1\LottoApp.AssemblyInfoInputs.cache
+C:\Users\DCV\source\repos\LottoApp\LottoApp\obj\Debug\netcoreapp3.1\LottoApp.AssemblyInfo.cs
+C:\Users\DCV\source\repos\LottoApp\LottoApp\obj\Debug\netcoreapp3.1\LottoApp.csproj.CoreCompileInputs.cache
+C:\Users\DCV\source\repos\LottoApp\LottoApp\obj\Debug\netcoreapp3.1\LottoApp.dll
+C:\Users\DCV\source\repos\LottoApp\LottoApp\obj\Debug\netcoreapp3.1\LottoApp.pdb
+C:\Users\DCV\source\repos\LottoApp\LottoApp\obj\Debug\netcoreapp3.1\LottoApp.genruntimeconfig.cache
